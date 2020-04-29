@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71e4fb10-2fc0-4c92-9bf5-bf0758662b18" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="online1122" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\191122\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="C:\191122\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a9iUr7gzAqQ8zICLOSyJv1wkWH" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/../onlien-edu-parent/online-edu-service/src/main/java/com/atguigu" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../online_edu_gateway" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu" />
+      <recent name="com.atguigu.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\191122\mycode\onlien-edu-parent\online-edu-video\src\main\resources" />
+      <recent name="C:\191122\mycode\onlien-edu-parent\online-edu-service\src\main\java\com\atguigu\edu\config" />
+      <recent name="C:\191122\mycode\onlien-edu-parent\online-edu-service\src\main\resources" />
+      <recent name="C:\191122\mycode\onlien-edu-parent\online-edu-service\src\test\java\com\atguigu" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MybatisPlusApplication">
+    <configuration name="CodeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.CodeGenerator" />
+      <module name="online-edu-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EasyExceTest.testWriteExcel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="online-edu-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.EasyExceTest" />
+      <option name="METHOD_NAME" value="testWriteExcel" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisPlusApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mybatis-plus" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.MybatisPlusApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnlienEduParentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="onlien-edu-parent" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.OnlienEduParentApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OssApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="online-edu-oss" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.OssApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="online_edu_register" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.RegisterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="onlien-edu-parent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.ServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="online-edu-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.response.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.ServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VideoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="online-edu-video" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.VideoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ServiceApplication (1)" />
+        <item itemvalue="Spring Boot.ServiceApplication" />
+        <item itemvalue="Spring Boot.OssApplication" />
+        <item itemvalue="Application.CodeGenerator" />
+        <item itemvalue="JUnit.EasyExceTest.testWriteExcel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <option name="contentProportion" value="0.112055644" />
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@d6ce60c4" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@d6ce60c4" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@74fa5620" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71e4fb10-2fc0-4c92-9bf5-bf0758662b18" name="Default Changelist" comment="" />
+      <created>1586154228456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586154228456</updated>
+      <workItem from="1586154233469" duration="1135000" />
+      <workItem from="1586159053179" duration="1808000" />
+      <workItem from="1586179160897" duration="2410000" />
+      <workItem from="1586219337566" duration="11304000" />
+      <workItem from="1586396243930" duration="208000" />
+      <workItem from="1586491250483" duration="13380000" />
+      <workItem from="1586565880168" duration="3206000" />
+      <workItem from="1586656448951" duration="7092000" />
+      <workItem from="1586738077085" duration="9957000" />
+      <workItem from="1586778736662" duration="10914000" />
+      <workItem from="1586823246327" duration="27484000" />
+      <workItem from="1586910878768" duration="9526000" />
+      <workItem from="1586998972060" duration="14446000" />
+      <workItem from="1587083182616" duration="23763000" />
+      <workItem from="1587170024424" duration="3310000" />
+      <workItem from="1587174422379" duration="11086000" />
+      <workItem from="1587258366519" duration="16137000" />
+      <workItem from="1587292769733" duration="1779000" />
+      <workItem from="1587342540940" duration="13906000" />
+      <workItem from="1587380331304" duration="958000" />
+      <workItem from="1587382876570" duration="6000" />
+      <workItem from="1587865967600" duration="391000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/mybatis-plus/src/test/java/com/atguigu/MybatisPlusApplicationTests.java</url>
+          <line>46</line>
+          <properties class="com.atguigu.MybatisPlusApplicationTests" method="updateUser">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/../onlien-edu-parent/online-edu-service/src/main/java/com/atguigu/edu/controller/EduCourseController.java</url>
+          <line>60</line>
+          <properties class="com.atguigu.edu.controller.EduCourseController" method="updateCourseInfo">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/../onlien-edu-parent/online-edu-service/src/main/java/com/atguigu/edu/service/impl/EduCourseServiceImpl.java</url>
+          <line>94</line>
+          <properties class="com.atguigu.edu.service.impl.EduCourseServiceImpl" method="updateCourse" />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
